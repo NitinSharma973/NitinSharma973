@@ -6,7 +6,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+Nitin+Github..&hearts;++;Self-taught+Front-End+Developer;Computer+Science+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
 </p>
-
+<p align="center">
+<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
 <img  align="right"  width="340" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinsharma973&label=Profile%20views&color=0e75b6&style=flat" alt="nitinsharma973" /> </p>
 
