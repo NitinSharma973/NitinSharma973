@@ -3,6 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
 <h3 align="center">IT Student</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
 <img  align="right"  width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinsharma973&label=Profile%20views&color=0e75b6&style=flat" alt="nitinsharma973" /> </p>
