@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+Nitin+Github..&hearts;++;Self-taught+Front-End+Developer;Computer+Science+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-<img  align="right"  width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" >
+<img  align="right"  width="390" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinsharma973&label=Profile%20views&color=0e75b6&style=flat" alt="nitinsharma973" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
