@@ -1,5 +1,5 @@
 
-<p align="center" ><img src="https://media.tenor.com/ozZ0UdbB8TEAAAAC/welcome-banner.gif" align="center"></p>
+
 
 <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
 
